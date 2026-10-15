@@ -4,7 +4,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-8.4-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![AdminLTE](https://img.shields.io/badge/AdminLTE-v4-3c8dbc?style=for-the-badge&logo=adminlte&logoColor=white)](https://adminlte.io/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](#-license)
 
 An internal web-based IT Service Management & Fault Tracking Portal designed for **Afyon Kocatepe University - Department of Information Technology (BİDB)**. The system streamlines the workflow of technical support requests between university staff/faculty and the IT support personnel.
 
@@ -82,8 +82,8 @@ CREATE TABLE `talepler` (
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/bidb-destek-sistemi.git](https://github.com/YOUR_USERNAME/bidb-destek-sistemi.git)
-   cd bidb-destek-sistemi
+   git clone [https://github.com/e-uynk/AKU-IT-Support-System.git](https://github.com/e-uynk/AKU-IT-Support-System.git)
+   cd AKU-IT-Support-System
    ```
 
 2. **Import Database Schema:**
@@ -105,7 +105,7 @@ CREATE TABLE `talepler` (
 
 ## 📄 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License.
 
 ---
 Developed for **Afyon Kocatepe University - Information Technology Department**.
