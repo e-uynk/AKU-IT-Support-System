@@ -82,9 +82,8 @@ CREATE TABLE `talepler` (
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/e-uynk/AKU-IT-Support-System.git](https://github.com/e-uynk/AKU-IT-Support-System.git)
+   git clone https://github.com/e-uynk/AKU-IT-Support-System.git
    cd AKU-IT-Support-System
-   ```
 
 2. **Import Database Schema:**
    - Open HeidiSQL / phpMyAdmin.
